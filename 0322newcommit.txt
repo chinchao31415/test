@@ -1,1 +1,4 @@
 new new 0322
+point 1. original
+point 2.0322newcommit  test merge 
+>>>>>>> dev
